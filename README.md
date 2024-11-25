@@ -1,4 +1,5 @@
 Python Data Analysis Project
+
 Overview
 This project is a comprehensive exploration and analysis of fitness and activity data using Python. The primary objective is to understand trends, relationships, and distributions within the data, leveraging advanced visualization techniques and statistical insights.
 
