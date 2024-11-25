@@ -1,21 +1,14 @@
-# Data_analytics_project
-Background
-Bellabeat, a wellness technology company founded in 2013, designs health-focused smart products tailored for women. With a mission to inspire and empower women through insights into their health and habits, Bellabeat has quickly positioned itself as a leader in tech-driven wellness for females. Co-founder Urška Sršen believes analyzing Fitbit fitness tracker data can uncover new growth opportunities.
+Background:
+Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
 
-Business Task
-Analyze Fitbit Fitness Tracker App data to:
+The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
 
-Identify user trends and behaviors.
-Explore how these trends could apply to Bellabeat customers.
-Provide actionable insights to enhance Bellabeat’s marketing strategy.
-Business Objectives
+Business Task:
+Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
 
-Identify key trends in Fitbit user activity.
-Determine their relevance to Bellabeat’s audience.
-Develop insights to inform marketing strategies.
-Tools
-Python: Used for data cleaning, transformation, analysis, and visualization.
-
-Data Set
-Fitbit Fitness Tracker Data (publicly available on Kaggle).
-
+Business Objectives:
+What are the trends identified?
+How could these trends apply to Bellabeat customers?
+How could these trends help influence Bellabeat marketing strategy?
+Tools:
+Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
