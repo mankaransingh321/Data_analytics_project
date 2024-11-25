@@ -1,14 +1,38 @@
-Background:
-Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
+Python Data Analysis Project
+Overview
+This project is a comprehensive exploration and analysis of fitness and activity data using Python. The primary objective is to understand trends, relationships, and distributions within the data, leveraging advanced visualization techniques and statistical insights.
 
-The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
+The project incorporates multiple datasets to analyze activity levels, calories burned, and steps taken. Various visualizations and analytical methods have been applied to uncover patterns and provide actionable insights.
 
-Business Task:
-Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
+Datasets Used
+The following datasets were utilized in this project:
 
-Business Objectives:
-What are the trends identified?
-How could these trends apply to Bellabeat customers?
-How could these trends help influence Bellabeat marketing strategy?
-Tools:
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+percentage.csv: Contains percentage distribution of activity levels (e.g., very active, fairly active, lightly active, sedentary).
+percentage2.csv: Provides activity levels with corresponding time in minutes.
+percentage3.csv: Contains cumulative statistics for activity levels.
+week_calories_df.csv: Tracks calories burned by day of the week.
+week_steps_df.csv: Tracks total steps by day of the week.
+Key Features
+Data Cleaning & Preprocessing: Handled missing data, normalized metrics, and merged relevant datasets.
+Visualizations:
+Pie charts for activity proportions.
+Line plots for trends in calories burned and steps taken.
+Violin plots for variability in steps distribution.
+Correlation heatmaps for relationships between key metrics.
+Advanced visualizations such as ridge plots, pair plots, sunburst charts, and 3D scatter plots.
+Insights & Recommendations:
+Identified sedentary behavior as a significant portion of user activity, highlighting areas for improvement.
+Demonstrated strong correlations between steps taken and calories burned.
+Uncovered patterns and variability in activity by day of the week.
+Technologies Used
+Python Libraries:
+Data Analysis: pandas, numpy
+Visualizations: matplotlib, seaborn, plotly, joypy
+Advanced Techniques: 3D plotting with mpl_toolkits.mplot3d
+Jupyter Notebook: For interactive coding and analysis.
+Collaboration
+This project was a collaborative effort. I had the privilege of working with:
+
+Shivani
+Paragee
+Nikhil
