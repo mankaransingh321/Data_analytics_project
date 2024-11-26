@@ -40,4 +40,5 @@ This project was developed in collaboration with:
 
 [Shivani](https://github.com/shivani-bits)
 [Paragee](https://github.com/paragee-bits)
-Nikhil
+[Nikhil](https://github.com/nikhil-gupta09)
+
