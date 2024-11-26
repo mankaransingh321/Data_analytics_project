@@ -33,9 +33,11 @@ Data Manipulation: pandas, numpy
 Visualization: matplotlib, seaborn, plotly, joypy
 Advanced Techniques: 3D plotting (mpl_toolkits.mplot3d), interactive visuals with plotly
 Notebook Environment: Jupyter Notebook for interactive analysis.
+
+
 👥 Collaboration
 This project was developed in collaboration with:
 
-Shivani
-Paragee
+[Shivani](https://github.com/shivani-bits)
+[Paragee](https://github.com/paragee-bits)
 Nikhil
